@@ -1,5 +1,7 @@
 .unn{
     background-color: rgb(184, 184, 184);
+    margin: 5px, 0;
+    padding: 5px;
 }
 a.l{
     color: rgb(75, 75, 75);
@@ -15,4 +17,14 @@ a.s{
 }
 a.d{
     color: rgb(0, 173, 0);
+}
+div.action{
+    margin: 5px, 0;
+    padding: 5px;
+    border: 2px solid rgb(255, 83, 83);
+}
+div.info{
+    margin: 5px, 0;
+    padding: 5px;
+    border: 2px solid rgb(68, 68, 255);
 }
